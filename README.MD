@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="Capa.png"
+    width="300"
+/>
+</p>
+
 <div align="center">
     <audio src="Episódio 1 - Nem toda rotina precisa parecer de blogueira.mp3" controls title="Podcast"></audio>
 </div>
