@@ -16,10 +16,8 @@
 - Audio gerado pela ElevenLabs
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 👩🏽‍💻 Expert
+## 👩🏽‍💻 Contatos
 
-    <p>&nbsp&nbsp&nbspIzabella Trindade Leite<br>
-    &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/izabellatleite">
         GitHub
