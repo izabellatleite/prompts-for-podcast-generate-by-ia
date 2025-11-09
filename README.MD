@@ -10,7 +10,7 @@
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## ✨ Como foi feito ?
+## ✨ Como foi feito?
 
 - Roteiro e capa gerados via chatgpt
 - Audio gerado pela ElevenLabs
