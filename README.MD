@@ -15,13 +15,11 @@
 
 - [ChatGPT](https://chat.openai.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito?
 
 - Roteiro e capa gerados via chatgpt
 - Audio gerado pela ElevenLabs
-- Capcut para tratar aúdio e adicionar sons de fundo
 
 </p>
 <br/><br/>
